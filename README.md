@@ -8,3 +8,6 @@ A basic .vimrc (that will allow us to activate Vim's built-in plugins) might hav
 set nocompatible
 filetype plugin on
 ```
+
+~/.nvim/nvimrc
+or ~/.nvimrc

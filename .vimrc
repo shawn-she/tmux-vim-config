@@ -6,6 +6,9 @@ set hls
 " ignore case
 set ic
 
+" display relative line numbers
+set relativenumber
+
 " no arrow keys allowed!!
 noremap <Up> <Nop>
 noremap <Down> <Nop>
