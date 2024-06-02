@@ -19,7 +19,7 @@ map <Space> <Leader>
 nmap <leader>p :w<CR>:!python3 %<CR>
 
 " git
-nmap <leader>g :w<CR>:!git add %<CR>:!git commit<CR>:!git push<CR>
+nmap <leader>g :w<CR>:!git add %<CR>:!git commit -m "vim_lkey_commit"<CR>:!git push<CR>
 
 " resize splits "
 nmap <leader>+ :vertical resize +20<CR>
